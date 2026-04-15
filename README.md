@@ -1,6 +1,6 @@
 # Genshin Impact Character Data
 
-This repository contains structured data for characters from Genshin Impact. The information is extracted and cleaned from the Genshin Impact Wiki (Fandom). All the information is upto date.
+This repository contains structured data for characters from Genshin Impact. The information is extracted and cleaned from the Genshin Impact Wiki (Fandom). All the information is upto date. Purpose of this is just easy understanding and usage.
 
 **Current Version**: Luna VI
 
