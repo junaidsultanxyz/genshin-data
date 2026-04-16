@@ -1,0 +1,100 @@
+{
+    "stars": [
+        {
+            "name": "4 stars",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Icon_4_Stars.png",
+            "icon-txt": "4★"
+        },
+        {
+            "name": "5 stars",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Icon_5_Stars.png",
+            "icon-txt": "5★"
+        }
+    ],
+    "elements": [
+        {
+            "name": "pyro",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Element_Pyro.png"
+        },
+        {
+            "name": "hydro",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Element_Hydro.png"
+        },
+        {
+            "name": "electro",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Element_Electro.png"
+        },
+        {
+            "name": "cryo",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Element_Cryo.png"
+        },
+        {
+            "name": "anemo",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Element_Anemo.png"
+        },
+        {
+            "name": "geo",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Element_Geo.png"
+        },
+        {
+            "name": "dendro",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Element_Dendro.png"
+        }
+    ],
+    "weapons": [
+        {
+            "name": "sword",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Weapon-class-sword-icon.png"
+        },
+        {
+            "name": "claymore",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Weapon-class-claymore-icon.png"
+        },
+        {
+            "name": "polearm",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Weapon-class-polearm-icon.png"
+        },
+        {
+            "name": "bow",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Weapon-class-bow-icon.png"
+        },
+        {
+            "name": "catalyst",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Weapon-class-catalyst-icon.png"
+        }
+    ],
+    "regions": [
+        {
+            "name": "mondstadt",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Mondstadt_Emblem_Night.png"
+        },
+        {
+            "name": "liyue",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Liyue_Emblem_Night.png"
+        },
+        {
+            "name": "inazuma",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Inazuma_Emblem_Night.png"
+        },
+        {
+            "name": "sumeru",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Sumeru_Emblem_Night.png"
+        },
+        {
+            "name": "fontaine",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Fontaine_Emblem_Night.png"
+        },
+        {
+            "name": "natlan",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Natlan_Emblem_Night.png"
+        },
+        {
+            "name": "snezhnaya",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Emblem_Nation_Unknown.png"
+        },
+        {
+            "name": "nod-krai",
+            "icon": "https://genshin-impact.fandom.com/wiki/Special:Filepath/Nod-Krai_Emblem_Night.png"
+        }
+    ]
+}
