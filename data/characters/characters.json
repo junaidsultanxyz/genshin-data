@@ -1340,21 +1340,6 @@
     "wiki_url": "https://genshin-impact.fandom.com/wiki/Nefer"
   },
   {
-    "id": "wonderland-manekin",
-    "names": [
-      "manekin",
-      "manekina"
-    ],
-    "rarity": "5 stars",
-    "element": "none",
-    "weapon": "sword",
-    "region": "none",
-    "release_date": "october 22, 2025",
-    "version": "luna ii",
-    "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Wonderland_Manekin_Icon.png",
-    "wiki_url": "https://genshin-impact.fandom.com/wiki/Wonderland_Manekin"
-  },
-  {
     "id": "durin",
     "names": [],
     "rarity": "5 stars",
